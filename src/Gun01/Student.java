@@ -5,6 +5,6 @@ public class Student {
         System.out.println("merhaba1 ");
 
         System.out.println("task2 yapildi");
-
+        System.out.println("tekrar merhaba");
     }
 }
